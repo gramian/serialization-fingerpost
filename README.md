@@ -5,7 +5,7 @@
 * `INI` - Initialization File: https://en.wikipedia.org/wiki/INI_file
 * `TOML` - Tom's Obvious Minimal Language: https://toml.io
 * `XML` -  Extensible Markup Language: https://www.w3.org/XML
-  * `MicoXML`: https://web.archive.org/web/20130608052654/http://www.ibm.com/developerworks/opensource/library/x-microxml1/index.html
+  * `MicroXML`: https://web.archive.org/web/20130608052654/http://www.ibm.com/developerworks/opensource/library/x-microxml1/index.html
 * `YAML` - YAML Ain't Markup Language : https://yaml.org
   * `Strict YAML` - https://hitchdev.com/strictyaml
 * `JSON` - JavaScript Object Notation: https://www.json.org
